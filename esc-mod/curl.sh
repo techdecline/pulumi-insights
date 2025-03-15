@@ -1,4 +1,4 @@
-export PULUMI_ACCESS_TOKEN="pul-c168153938f2c4591e2acc89879260ca8673c2ae"
+export PULUMI_ACCESS_TOKEN="<token>"
 export organization="pulumi-insights"
 export project="vs-subscription"
 export environment="vs-subscription"
