@@ -1,0 +1,12 @@
+{
+  "dummy": {
+    "sensitive": false,
+    "type": "string",
+    "value": "foobar"
+  },
+  "storage_account_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/subscriptions/a1bb21f8-fca2-4832-8b35-4fc83f310690/resourceGroups/rg-insights/providers/Microsoft.Storage/storageAccounts/saesc01"
+  }
+}
